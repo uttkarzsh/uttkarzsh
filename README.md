@@ -1,4 +1,4 @@
-<img src="banner.svg" alt="About Me" width="100%">
+<img src="banner.png" alt="About Me" width="100%">
 
 <h1 align = "center"> 
 👋 Hey, I'm Uttkarsh.
