@@ -1,5 +1,5 @@
 <img src="banner.png" alt="About Me" width="100%">
-<br/>
+
 
 <h1 align = "center"> 
 👋 Hey, I'm Uttkarsh.
