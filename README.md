@@ -5,7 +5,7 @@
 👋 Hey, I'm Uttkarsh.
 </h1>
 <p align = "center">
-<b>I write code, chase bugs, and occasionally find meaning in the chaos.</b></p>
+<b>I write code, chase bugs, and occasionally find meaning in the chaos. Blockchain is kinda cool tbh.</b></p>
 
 
 
@@ -15,7 +15,7 @@
 
 
 ## 🌐 Socials
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/uttkarzsh) [![Website](https://img.shields.io/badge/portfolio-50aca4?style=for-the-badge&logo=vercel&logoColor=white)](https://uttkarshpawan.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=invision&logoColor=white)](https://linkedin.com/in/uttkarsh-pawan) 
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/0xuttkarzsh) [![Website](https://img.shields.io/badge/portfolio-50aca4?style=for-the-badge&logo=vercel&logoColor=white)](https://uttkarshpawan.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=invision&logoColor=white)](https://linkedin.com/in/uttkarsh-pawan) 
 
 
 
