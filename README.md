@@ -1,6 +1,18 @@
 <p align = "center">
-<i>"entropy finds everyone. welcome to my roman empire."</i></p>
+<i>"entropy finds everyone. welcome to my roman empire..."</i></p>
 
-<img src="banner.png" alt="About Me" width="100%">
+```shell
+# uttkarzsh
+
+~/.interests
+>  operating systems
+   compiler design
+   cryptography & zero-knowledge
+   distributed systems
+   ai systems
+
+~/.languages
+>  .rs   .cpp   .py   .lua   .nr   .sol
+```
 
 
