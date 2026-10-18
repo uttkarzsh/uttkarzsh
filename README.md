@@ -12,7 +12,7 @@
    ai systems
 
 ~/.languages
->  .rs   .cpp   .py   .lua   .nr   .sol
+>  .rs   .cpp   .py   .lua   .s   .nr   .sol
 ```
 
 
