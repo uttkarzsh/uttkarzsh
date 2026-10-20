@@ -7,12 +7,12 @@
 ~/.interests
 >  operating systems
    compiler design
-   cryptography & zero-knowledge
    distributed systems
-   ai systems
+   cryptography & zero-knowledge
+   ai systems (language models & inference)
 
 ~/.languages
->  .rs   .cpp   .py   .lua   .s   .nr   .sol
+>  .rs   .cpp   .py   .lua   .asm   .nr   .sol
 ```
 
 
